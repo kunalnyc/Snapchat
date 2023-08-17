@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # snapchat
 
-A new Flutter project.
+A new Snapchat project.
 
 ## Getting Started
 
