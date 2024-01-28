@@ -1,4 +1,5 @@
 import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
 
 class Snapy extends StatefulWidget {
   const Snapy({super.key});
@@ -10,7 +11,7 @@ class Snapy extends StatefulWidget {
 class _SnapyState extends State<Snapy> {
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    return const Scaffold();
   }
 }
 
